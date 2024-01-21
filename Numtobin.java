@@ -1,6 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
+=======
+>>>>>>> 29f0ded (adding chages and Readme.md)
 public class Numtobin {
     public static void main(String[] args) {
         int num = 1041;
@@ -20,6 +23,7 @@ public class Numtobin {
             System.out.print(arr[i]);
         }
     }
+<<<<<<< HEAD
 =======
 >>>>>>> 86fe7a0 (intialize repo)
 public class Numtobin {
@@ -45,4 +49,6 @@ public class Numtobin {
 =======
 >>>>>>> 2e1c29e (pushing into my repo)
 >>>>>>> 86fe7a0 (intialize repo)
+=======
+>>>>>>> 29f0ded (adding chages and Readme.md)
 }
