@@ -1,4 +1,5 @@
 public class Sample{
+<<<<<<< HEAD
   public static void main(String[] args){
 //System.out.println("hello world ! sample file");
 
@@ -25,6 +26,40 @@ finally
   System.out.println("The 'try catch' is finished.");
 }
 }
+=======
+<<<<<<< HEAD
+public static void main(String[] args){
+System.out.println("Hello world");
+}
+}
+=======
+  public static void main(String[] args){
+//System.out.println("hello world ! sample file");
+
+//     int [] arr ={56,44,322,98,65,78,63,99};
+
+//       for(int i = 0;i<arr.length; i++){
+//         System.out.println(arr[i] + " ");
+//       }
+//       int sum = 65; 
+      
+      
+//  }
+
+try {
+  int[] myNumbers = {1, 2, 3};
+  for(int i = 0;i<myNumbers.length; i++){
+  System.out.println(myNumbers[i]);
+  }
+} catch (Exception e) {
+  System.out.println("Something went wrong.");
+} 
+finally
+ {
+  System.out.println("The 'try catch' is finished.");
+}
+}
+>>>>>>> 86fe7a0 (intialize repo)
 }
 // An abstract can contain a static method. It is because a static method though not overridden 
 // can be hidden. But an abstract method cannot be declared static at the same time as an abstract method 
@@ -62,3 +97,7 @@ finally
 //         nstr= ch+nstr; //adds each character in front of the existing string
 //       }
 //       System.out.println("Reversed word: "+ nstr);
+<<<<<<< HEAD
+=======
+>>>>>>> 2e1c29e (pushing into my repo)
+>>>>>>> 86fe7a0 (intialize repo)
