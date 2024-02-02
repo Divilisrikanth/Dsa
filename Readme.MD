@@ -11,4 +11,4 @@
 10.binary tree <br>
 # other programs
 1.comparion of two strings using char array. <br>
-2.number to binarynumber <br>
+2.number to binary <br>
