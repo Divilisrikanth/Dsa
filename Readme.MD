@@ -1,14 +1,14 @@
 # This consists of Datastructres sorting techinques written in java and it also contains bytecode file
-Linear serch <br>
-binary search
-bubble sort
-insertion sort
-merge sort
-quicksort
-linked list
-queue
-stackimplementation
-binary tree
+1.Linear serch <br>
+2.binary search <br>
+3.bubble sort <br>
+4.insertion sort <br>
+5.merge sort <br>
+6.quicksort <br>
+7.linked list <br>
+8.queue <br>
+9.stackimplementation <br>
+10.binary tree <br>
 # other programs
-comparion of two strings using char array.
-number to binarynumber
+1.comparion of two strings using char array. <br>
+2.number to binarynumber <br>
