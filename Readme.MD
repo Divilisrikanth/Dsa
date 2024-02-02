@@ -1,4 +1,4 @@
-This consists of Datastructres sorting techinques written in java and it also contains bytecode file.
+#This consists of Datastructres sorting techinques written in java and it also contains bytecode file.
 1.Linear serch
 2..binary search
 3.bubble sort
