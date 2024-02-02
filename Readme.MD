@@ -1,5 +1,5 @@
 # This consists of Datastructres sorting techinques written in java and it also contains bytecode file
-Linear serch
+Linear serch <br>
 binary search
 bubble sort
 insertion sort
