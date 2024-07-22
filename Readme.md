@@ -1,4 +1,4 @@
-# This consists of Datastructres sorting techinques written in java and it also contains bytecode file
+# Datastructres sorting techinques written in java 
 1.Linear search <br>
 2.binary search <br>
 3.bubble sort <br>
